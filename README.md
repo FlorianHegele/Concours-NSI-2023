@@ -1,5 +1,7 @@
 # Fracteur - Une application génératrice de fractales 🌟
 
+Ce repo est un clone du [repo officiel](https://github.com/LyFl0w/Fracteur/)
+
 ![version](https://img.shields.io/badge/version-1.1.5-blue.svg)
 ![progress](https://img.shields.io/badge/Progress-90%25-green)
 
